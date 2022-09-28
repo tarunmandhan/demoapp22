@@ -5,7 +5,7 @@ const App = () => {
 
   const [lastName, setLastName] = useState("");
 
-  const [fullName, setFullName] = useState();
+  const [fullName, setFullName] = useState("");
 
   const [lastNameNew, setLastNameNew] = useState("");
 
